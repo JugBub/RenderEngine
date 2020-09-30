@@ -1,0 +1,13 @@
+C:\Users\Sebastian\source\repos\RenderEngine\RenderEngine\bin\Debug\netcoreapp3.1\RenderEngine.exe
+C:\Users\Sebastian\source\repos\RenderEngine\RenderEngine\bin\Debug\netcoreapp3.1\RenderEngine.deps.json
+C:\Users\Sebastian\source\repos\RenderEngine\RenderEngine\bin\Debug\netcoreapp3.1\RenderEngine.runtimeconfig.json
+C:\Users\Sebastian\source\repos\RenderEngine\RenderEngine\bin\Debug\netcoreapp3.1\RenderEngine.runtimeconfig.dev.json
+C:\Users\Sebastian\source\repos\RenderEngine\RenderEngine\bin\Debug\netcoreapp3.1\RenderEngine.dll
+C:\Users\Sebastian\source\repos\RenderEngine\RenderEngine\bin\Debug\netcoreapp3.1\RenderEngine.pdb
+C:\Users\Sebastian\source\repos\RenderEngine\RenderEngine\obj\Debug\netcoreapp3.1\RenderEngine.csprojAssemblyReference.cache
+C:\Users\Sebastian\source\repos\RenderEngine\RenderEngine\obj\Debug\netcoreapp3.1\RenderEngine.AssemblyInfoInputs.cache
+C:\Users\Sebastian\source\repos\RenderEngine\RenderEngine\obj\Debug\netcoreapp3.1\RenderEngine.AssemblyInfo.cs
+C:\Users\Sebastian\source\repos\RenderEngine\RenderEngine\obj\Debug\netcoreapp3.1\RenderEngine.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\source\repos\RenderEngine\RenderEngine\obj\Debug\netcoreapp3.1\RenderEngine.dll
+C:\Users\Sebastian\source\repos\RenderEngine\RenderEngine\obj\Debug\netcoreapp3.1\RenderEngine.pdb
+C:\Users\Sebastian\source\repos\RenderEngine\RenderEngine\obj\Debug\netcoreapp3.1\RenderEngine.genruntimeconfig.cache

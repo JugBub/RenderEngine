@@ -5,7 +5,7 @@ using System.Text;
 namespace RenderEngine
 {
 
-    public class Vertex
+    public class Vertex : ISpace
     {
         double x, y, z;
 
@@ -14,16 +14,24 @@ namespace RenderEngine
             this.x = x;
             this.y = y;
             this.z = z;
-            double[] a = GetPos();
-            System.Console.WriteLine(a.ToString());
         }
         public double[] GetPos()
         {
-            double[] a = {x+1, y, z};
+            //returns vertex position
+            return null;
+        }
 
-            System.Console.WriteLine(a.ToString());
+        public void SetPos()
+        {
+            //Sets vertex position
+        }
 
-            return a;
+        public void Move(double[] changePos)
+        {
+            double[] currentPos = GetPos();
+
+
+
         }
     }
 }

@@ -4,13 +4,9 @@ using System.Text;
 
 namespace RenderEngine
 {
-    public interface ISpace<T>
+    public interface ISpace
     {
-        void Move(T t)
-        {
-            Vertex vertex = new Vertex(1, 1, 1);
+        void Move(double[] changePos);
 
-            System.Console.WriteLine(vertex.GetPos());
-        }
     }
 }

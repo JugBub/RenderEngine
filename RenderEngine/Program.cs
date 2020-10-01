@@ -6,7 +6,8 @@ namespace RenderEngine
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Vertex vertex = new Vertex(1, 1, 1);
         }
     }
+
 }
